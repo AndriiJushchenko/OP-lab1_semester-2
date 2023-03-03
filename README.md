@@ -1,1 +1,1 @@
-# OP_labs-semester-2-
+# OP labs (semester 2)
