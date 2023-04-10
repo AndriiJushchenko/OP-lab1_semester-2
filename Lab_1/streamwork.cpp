@@ -16,7 +16,7 @@ void filestream(){
     cout << "\nResult:\n";
     reWord(name, name1);
     outputFile(name1);
-    cout << "Thank you for using!\n";
+    cout << "\nThank you for using!\n";
 }
 
 void inputFile(string name){
