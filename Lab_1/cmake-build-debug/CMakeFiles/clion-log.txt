@@ -1,0 +1,1 @@
+CMakeLists.txt not found in C:\Users\Betresen\iCloudDrive\Documents\CLionProjects\Course_1\Semester_2\Lab_1 Select CMakeLists.txt
